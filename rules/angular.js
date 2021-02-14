@@ -34,10 +34,10 @@ module.exports = {
 
         // IMPORT
         'import/prefer-default-export': 'off',
+        'import/extensions': 'off',
 
         // TYPESCRIPT
         '@typescript-eslint/adjacent-overload-signatures': 'error',
-        '@typescript-eslint/class-name-casing': 'error',
         '@typescript-eslint/member-delimiter-style': 'error',
         '@typescript-eslint/member-ordering': [
           'error',
